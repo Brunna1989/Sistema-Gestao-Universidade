@@ -12,7 +12,6 @@ e também a verificação de disciplinas lecionadas por cada professor._
     Gradle: Gerenciador de pacotes.
     Docker: Plataforma para desenvolvimento, envio e execução de aplicativos em contêineres.
     JUnit 5: Framework de testes unitários.
-    Swagger: Ferramenta para documentar APIs.
     PostgreSQL: Sistema de gerenciamento de banco de dados relacional.
 
 **_Funcionalidades:_**
