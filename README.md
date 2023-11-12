@@ -34,10 +34,10 @@ e também a verificação de disciplinas lecionadas por cada professor._
 
 **_Docker Compose:_**
 
-_O arquivo docker-compose.yml é utilizado para orquestrar os contêineres
+O arquivo docker-compose.yml é utilizado para orquestrar os contêineres
 Docker necessários para a execução do projeto. Ele define os serviços para
 o banco de dados PostgreSQL, o pgAdmin (interface web para gerenciamento do PostgreSQL)
-e a aplicação Spring Boot._
+e a aplicação Spring Boot.
 
     db: Serviço para o banco de dados PostgreSQL, configurado com usuário, senha e banco de dados.
     pgadmin: Serviço para o pgAdmin, uma interface web para gerenciar o PostgreSQL.
